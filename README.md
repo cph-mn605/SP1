@@ -1,6 +1,3 @@
-# SP1
-Første studiepoint opgave
-
-Maja Nøhr-Nørgaard 
-cph-mn605@cphbusiness.dk
-Hold A - Gruppe: Florian, Emil R, Alex og Maja 
+SP1
+Maja Nøhr-Nørgaard, Hold A
+Studiegruppe: Florian, Emil, Alex og Maja 
